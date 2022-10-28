@@ -132,7 +132,9 @@ footer {
  color: white;
  }
  
- 
+ .lin{
+   color: white;
+ }
  .row{
  padding-top: 10px;
  width: 85%;
@@ -158,6 +160,7 @@ footer {
        display: none;
     }
     nav {
+       background-color: white;   
        transform: translateX(0);
        position: unset;
        display: block;

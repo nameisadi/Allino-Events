@@ -10,11 +10,12 @@ body {
 
 video{
    padding: 2em;
-   width: 100%;
+   width: 47%;
 
 }
+
 img{
-   padding: 10px;
+   padding: 20px;
    width: 39%;
    height: 30em;
 }
@@ -30,10 +31,11 @@ a {
 }
 
 .hero-img {
+
   position: absolute;
   top: 0;
   left: 0;
-  background:#dc4493;
+  background: url("../images/Pinklogo.png");
   background-size: cover;
   background-position-x: 20%;
   background-position-y: 20%;
@@ -134,6 +136,7 @@ a:hover {
   }
 
   nav {
+    background-color: white;   
      transform: translateX(0);
      position: unset;
      display: block;
